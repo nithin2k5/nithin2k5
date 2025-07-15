@@ -10,7 +10,7 @@
 - 👨‍💻 Full Stack Developer skilled in `React`, `React Native`, `Next.js`, `.NET Framework`, `Python`  
 - 🔌 Experienced in REST APIs, MongoDB, Microsoft SQL, and Expo with cross-platform tools  
 - 🌱 Currently exploring **AI-assisted dev tools**, **distributed systems**, and **cloud platforms**  
-- 📫 Reach me at: `nithin.k.dev@gmail.com`  
+- 📫 Reach me at: `koppisettinithin67@gmail.com`  
 - 🌐 Portfolio: [nithinkumark.vercel.app](https://nithinkumark.vercel.app)
 
 ---
