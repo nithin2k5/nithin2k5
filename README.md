@@ -8,8 +8,6 @@
 - 🔭 I’m currently building full-stack apps with **React Native**, **Next.js**, and **.NET Framework**
 - 💻 Passionate about crafting smooth UIs, scalable APIs, and embedded smart systems  
 - 👨‍💻 Full Stack Developer skilled in `React`, `React Native`, `Next.js`, `.NET Framework`, `Python`  
-- 🔌 Experienced in REST APIs, MongoDB, Microsoft SQL, and Expo with cross-platform tools  
-- 🌱 Currently exploring **AI-assisted dev tools**, **distributed systems**, and **cloud platforms**  
 - 📫 Reach me at: `koppisettinithin67@gmail.com`  
 - 🌐 Portfolio: [nithinkumark.vercel.app](https://nithinkumark.vercel.app)
 
