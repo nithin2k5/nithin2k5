@@ -16,8 +16,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithin2k5&show_icons=true&theme=tokyonight" alt="Nithin's GitHub Stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin2k5&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
