@@ -1,71 +1,66 @@
 <h1 align="center">Hi there 👋, I'm Nithin Kumar K</h1>
-<h3 align="center">Full Stack Developer | Embedded Systems Enthusiast | Team Player</h3>
+<h3 align="center">Full Stack Developer | React Native Enthusiast | .NET Explorer</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building: **Smart Traffic Control System** using ESP8266  
-- ⚙️ Tech Stack: `ReactJS`, `React Native (Expo)`, `Spring Boot`, `MySQL`, `Firebase`, `Supabase`, `Tkinter`, `Embedded C`  
-- 🌱 Learning: Distributed Systems, AI-assisted Development (Cursor), Google Auth, Docker  
-- 🛠️ Focus: Building scalable full-stack apps and smart embedded systems  
-- 💬 Ask me about: Full Stack Dev, API integrations, React Native animations, Spring Boot security, or embedded serial protocols  
-- 👨‍💻 Collaborating with **ZeroOne Code Club** to mentor developers and build exciting tech  
-- 📫 Reach me at: `nithin.k.dev@gmail.com` (or drop a message here!)
+- 🔭 I’m currently building full-stack apps with **React Native**, **Next.js**, and **.NET Framework**
+- 💻 Passionate about crafting smooth UIs, scalable APIs, and embedded smart systems  
+- 👨‍💻 Full Stack Developer skilled in `React`, `React Native`, `Next.js`, `.NET Framework`, `Python`  
+- 🔌 Experienced in REST APIs, MongoDB, Microsoft SQL, and Expo with cross-platform tools  
+- 🌱 Currently exploring **AI-assisted dev tools**, **distributed systems**, and **cloud platforms**  
+- 📫 Reach me at: `nithin.k.dev@gmail.com`  
+- 🌐 Portfolio: [nithinkumark.vercel.app](https://nithinkumark.vercel.app)
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
 #### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
-#### ⚙️ Frameworks
+#### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
-![Tkinter](https://img.shields.io/badge/-Tkinter-black?style=flat-square&logo=python)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
+#### ⚙️ Backend & APIs
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 #### 🛢️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL-black?style=flat-square&logo=microsoft-sql-server)
 
-#### 🌐 Tools & Platforms
+#### ⚒️ Tools & Platforms
 ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
-![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithin-code&show_icons=true&theme=radical" alt="Nithin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithin-code&show_icons=true&theme=tokyonight" alt="Nithin's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-code&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-code&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧠 Featured Projects
+### 🌐 Connect With Me
 
-- 🔐 [Smart Traffic Control System](https://github.com/nithin-code/smart-traffic)
-- 🛒 [Spring Boot eCommerce Backend](https://github.com/nithin-code/ecommerce-backend)
-- 📱 [React Native Google Auth App](https://github.com/nithin-code/google-auth-app)
-- 🧪 [Tkinter-based Mini DBMS](https://github.com/nithin-code/custom-dbms-tkinter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://nithinkumark.vercel.app)
 
----
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://your-portfolio-link.com)
-
-> ⚡ "Building efficient, user-friendly apps that matter."
+> “Consistency is more important than perfection — just ship it.” 🚀
