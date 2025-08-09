@@ -1,7 +1,13 @@
 <!-- Profile README for Nithin Kumar K -->
 
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0FF&height=200&section=header&text=Nithin%20Kumar%20K%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi+there+👋,+I'm+Nithin+Kumar+K;Full+Stack+Developer;React+Native+Enthusiast;.+NET+Explorer" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nithin+Kumar+K;Full+Stack+Developer;React+Native+Enthusiast;.+NET+Explorer" alt="Typing Animation" />
 </h1>
 
 ---
@@ -18,35 +24,41 @@
 ---
 
 ## 🛠 Tech Stack
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,dotnet,python,html,css,js,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithin2k5&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithin2k5&theme=radical" alt="GitHub streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nithin2k5&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithin2k5&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin2k5&layout=compact&theme=radical" alt="Top languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin2k5&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/nithin2k5/nithin2k5/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/nithin-kumar-k-b17b90297"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:koppisettinithin67@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://nithinkumark.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react"/></a>
+  <a href="https://linkedin.com/in/nithin-kumar-k-b17b90297"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
+  <a href="mailto:koppisettinithin67@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://nithinkumark.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
 ---
 
+<!-- Animated Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.svg" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0FF&height=100&section=footer" />
 </p>
