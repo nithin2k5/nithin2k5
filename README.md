@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nithin+Kumar+K;Full+Stack+Developer;React+Native+Enthusiast;.+NET+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+K+Nithin+Kumar;Full+Stack+Developer;React+Native+Enthusiast;.+NET+Explorer" alt="Typing Animation" />
 </h1>
 
 ---
