@@ -33,8 +33,9 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nithin2k5&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithin2k5&theme=radical&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=nithin2k5&theme=radical&hide_border=true" height="170" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin2k5&layout=compact&theme=radical&hide_border=true" height="170" />
