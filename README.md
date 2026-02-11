@@ -20,7 +20,7 @@
 💻 Passionate about crafting smooth UIs, scalable APIs, and embedded smart systems  
 👨‍💻 Skilled in **React**, **React Native**, **Next.js**, **.NET Framework**, **Python**  
 📫 Reach me at: **koppisettinithin67@gmail.com**  
-🌐 Portfolio: [nithinkumark.vercel.app](https://nithinkumark.vercel.app)
+🌐 Portfolio: [koppisettinithin.me](https://koppisettinithin.me)
 
 > “Consistency beats intensity — build daily.” ✨
 
