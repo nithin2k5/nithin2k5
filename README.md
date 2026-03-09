@@ -8,9 +8,6 @@ I believe that consistent learning and hands-on development are essential for gr
 
 You can explore more about my work and projects through my portfolio. I am always open to collaboration, technical discussions, and opportunities to work on meaningful software projects.
 
-Portfolio:  
-https://koppisettinithin.me  
-
 LinkedIn:  
 https://linkedin.com/in/nithin-kumar-k-b17b90297  
 
